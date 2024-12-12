@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fridge-scanner",
-    "slug": "fridge-scanner",
+    "name": "FridgeFriend",
+    "slug": "FridgeFriend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -32,7 +32,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-sqlite"
     ],
     "experiments": {
       "typedRoutes": true
